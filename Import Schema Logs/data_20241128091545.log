@@ -1,0 +1,10 @@
+28-11-2024 01:15:45	This log contains information about the import schema operation into project 'data' on computer 'AZR-HQ-WYMOTUFN' by user 'nagaraju.bajjuri'.
+28-11-2024 01:15:45	Deserializing model
+28-11-2024 01:15:45	Resolving model
+28-11-2024 01:15:45	Visiting imported model for types
+28-11-2024 01:15:45	Scanning project for duplicate elements
+28-11-2024 01:15:45	Finished duplicate element processing
+28-11-2024 01:15:46	Processing extra files
+28-11-2024 01:15:46	Finished importing Data-tier Application file.
+28-11-2024 01:15:46	A summary of the import was saved to the following location: C:\Users\Nagaraju.bajjuri\Downloads\data\data\Import Schema Logs\data_20241128091545.log
+28-11-2024 01:15:46	Click Finish to continue...

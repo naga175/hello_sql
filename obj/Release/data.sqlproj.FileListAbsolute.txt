@@ -1,0 +1,10 @@
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\bin\Release\data.dacpac
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\bin\Release\data.dll
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\bin\Release\data.pdb
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\data.sqlproj.AssemblyReference.cache
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\data.dll
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\data.pdb
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\Model.xml
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\refactor.xml
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\postdeploy.sql
+C:\Users\Nagaraju.bajjuri\Downloads\data\data\obj\Release\predeploy.sql

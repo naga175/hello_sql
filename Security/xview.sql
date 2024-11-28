@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [xview]
+    AUTHORIZATION [dbo];
+
